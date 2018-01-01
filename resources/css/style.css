@@ -1,0 +1,11 @@
+html {
+  font-family: Verdana;
+  background: black;
+}
+
+.header {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-weight: normal;
+}
